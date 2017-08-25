@@ -1,4 +1,5 @@
-
+##Make cache matrix gives a list of 4 functions that can set or get the value of a matrix, or set or get the inverse of 
+##a matrix
 makeCacheMatrix <- function(x = matrix()) {
         m <- NULL
         set <- function(y) {
